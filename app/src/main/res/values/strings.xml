@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">SoulPlus Login Facebook</string>
+    <string name="facebook_app_id" translatable="false">270874197744835</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb270874197744835</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="name">Name</string>
+    <string name="picture_url">Picture URL</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="access_token">Access Token</string>
+    <string name="facebook_picture_url" translatable="false">"Facebook Picture URL: "</string>
+    <string name="facebook_email" translatable="false">"Facebook Email: "</string>
+    <string name="not_exist">Not exists</string>
+    <string name="facebook_last_name">"Facebook Last Name: "</string>
+    <string name="facebook_name">"Facebook Name: "</string>
+    <string name="facebook_middle_name">"Facebook Middle Name: "</string>
+    <string name="facebook_first_name">"Facebook First Name: "</string>
+    <string name="facebook_id" translatable="false">"Facebook Id: "</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="hello">Hello, %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="details">Details</string>
+
+</resources>

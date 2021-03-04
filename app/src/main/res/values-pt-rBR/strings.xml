@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_name">Primeiro nome</string>
+    <string name="middle_name">Nome do meio</string>
+    <string name="last_name">Último nome</string>
+    <string name="name">Nome</string>
+    <string name="picture_url">URL da foto</string>
+    <string name="access_token">Token de acesso</string>
+    <string name="not_exist">Não existe</string>
+    <string name="facebook_last_name">"Último nome: "</string>
+    <string name="facebook_name">"Nome: "</string>
+    <string name="facebook_middle_name">"Nome do meio: "</string>
+    <string name="facebook_first_name">"Primeiro nome: "</string>
+    <string name="log_in_with_facebook">Entrar com Facebook</string>
+    <string name="hello">Olá, %1$s</string>
+    <string name="logout">Desconectar</string>
+    <string name="details">Detalhes</string>
+</resources>
